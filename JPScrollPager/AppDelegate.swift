@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  JPScrollPager
 //
-//  Created by Jay Patel on 31/03/21.
-//  Copyright © 2021 Jay Patel. All rights reserved.
+//  Created by Ashish Augustine on 31/03/21.
+//  Copyright © 2021 Ashish Augustine. All rights reserved.
 //
 
 import UIKit
